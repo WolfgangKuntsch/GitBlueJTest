@@ -28,5 +28,5 @@ target1.name=HALLOWELT
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=120
-target1.x=130
-target1.y=130
+target1.x=220
+target1.y=70
